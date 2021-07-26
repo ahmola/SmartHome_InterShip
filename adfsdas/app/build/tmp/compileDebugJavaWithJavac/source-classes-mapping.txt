@@ -1,0 +1,8 @@
+com/example/adfsdas/BuildConfig.java
+ com.example.adfsdas.BuildConfig
+com/example/adfsdas/MainActivity.java
+ com.example.adfsdas.MainActivity
+ com.example.adfsdas.MainActivity$1
+ com.example.adfsdas.MainActivity$2
+ com.example.adfsdas.MainActivity$3
+ com.example.adfsdas.MainActivity$4
