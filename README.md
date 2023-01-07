@@ -5,3 +5,4 @@
 <img src="https://img.shields.io/badge/JavaScript-FFF633?style=flat&logo=JavaScript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/nginx-39FF33?style=flat&logo=nginx&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/RaspberryPi-FF3377?style=flat&logo=RaspberryPi&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=FFFFFF"/>
