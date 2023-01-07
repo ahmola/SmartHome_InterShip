@@ -3,4 +3,5 @@
 <img src="https://img.shields.io/badge/AndroidStudio-77FF33?style=flat&logo=AndroidStudio&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Python-3349FF?style=flat&logo=Python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/JavaScript-FFF633?style=flat&logo=JavaScript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/RaspberryPi-39FF33?style=flat&logo=RaspberryPi&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/nginx-39FF33?style=flat&logo=nginx&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/RaspberryPi-FF3377?style=flat&logo=RaspberryPi&logoColor=FFFFFF"/>
