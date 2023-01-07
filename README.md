@@ -3,3 +3,4 @@
 <img src="https://img.shields.io/badge/AndroidStudio-33FF4C?style=flat&logo=AndroidStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3349FF?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FFF633?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/nginx-FFF633?style=flat&logo=nginx&logoColor=white"/>
